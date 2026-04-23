@@ -1,7 +1,3 @@
-🚀 🔥 UPDATED FINAL README (WITH ALL TOOLS)
-
-👉 Replace your current README with this:
-
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <h3 align="center">Cybersecurity Enthusiast | TryHackMe Top 7% | Aspiring Pentester</h3>
 
