@@ -25,6 +25,14 @@
   </a>
 </p>
 
+## 🏅 TryHackMe Badges
+
+<p align="center">
+  <a href="https://tryhackme.com/p/riyalimba?tab=badges">
+    <img src="https://img.shields.io/badge/View%20All%20Badges-TryHackMe-red?style=for-the-badge&logo=hackthebox"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Skills & Tools
