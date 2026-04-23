@@ -46,13 +46,53 @@
 
 ## 🚀 Projects
 
+---
+
 ### 🔍 Fast Port Scanner (Python)
-- Scans custom port ranges quickly  
-- Identifies open ports efficiently  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Port%20Scanner-00FF00?style=for-the-badge&logo=linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Speed-Fast-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Type-Network%20Security-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
+</p>
+
+- ⚡ Scans custom port ranges quickly  
+- 📡 Detects open ports efficiently  
+- 🚀 Lightweight and faster than basic scans  
+
+<p align="center">
+  <a href="https://github.com/riyalimba-ux/fast-port-scanner-python">
+    <img src="https://img.shields.io/badge/View%20Project-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
 
 ### 🔑 Dictionary Password Cracker
-- Performs password cracking using wordlists  
-- Supports custom dictionaries  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Password%20Cracker-red?style=for-the-badge&logo=hackthebox" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Attack-Brute%20Force-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Type-Security%20Tool-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
+</p>
+
+- 🔐 Performs password cracking using wordlists  
+- 🧠 Supports custom dictionary inputs  
+- ⚡ Simulates brute-force attacks  
+
+<p align="center">
+  <a href="https://github.com/riyalimba-ux/password-cracker">
+    <img src="https://img.shields.io/badge/View%20Project-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
