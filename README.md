@@ -2,17 +2,17 @@
 <h3 align="center">Cybersecurity Enthusiast | TryHackMe Top 7% | Aspiring Pentester</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Web+Application+Security+Specialist;TryHackMe+Top+7%25;PortSwigger+Practitioner;Future+Ethical+Hacker" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Web+Application+Security+Learner;TryHackMe+Top+7%25;PortSwigger+Practitioner;Future+Ethical+Hacker" />
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 MCA Student (Graduating: May 2026) - CGC Landran  
-- 🎯 Focus: **Web Application Security & Penetration Testing**  
-- 🔥 TryHackMe Top 7% (65+ Rooms)  
+- 🎓 MCA Student (Graduating May 2026) - CGC Landran  
+- 🎯 Specializing in **Web Application Security & Pentesting**  
+- 🔥 TryHackMe Top 7% (65+ Rooms Completed)  
 - 🧪 PortSwigger Labs: 45+ Completed  
-- ⚡ Hands-on with real-world tools  
+- ⚡ Hands-on experience with real-world tools  
 - 📍 Kharar | Mohali | Chandigarh  
 
 ---
@@ -47,17 +47,17 @@
 ## 🚀 Projects
 
 ### 🔍 Fast Port Scanner (Python)
-- ⚡ Scans custom port ranges faster than basic scans  
-- 📡 Identifies open ports efficiently  
+- Scans custom port ranges quickly  
+- Identifies open ports efficiently  
 
-### 🔑 Password Cracker (Python)
-- 🔐 Dictionary-based password cracking  
-- 🧠 Custom wordlist support  
+### 🔑 Dictionary Password Cracker
+- Performs password cracking using wordlists  
+- Supports custom dictionaries  
 
 ---
 
 ## 🏆 Certifications & Experience
-- Clifford Chance Cyber Security Virtual Internship (Forage)  
+- Clifford Chance Cyber Security Internship (Forage)  
 - Deloitte Cyber Job Simulation  
 - Mastercard Cybersecurity Simulation  
 - Telstra Cybersecurity Simulation  
@@ -104,9 +104,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyalimba-ux&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=riyalimba-ux&label=Profile%20views&color=00ff00&style=flat" />
 </p>
 
 ---
 
-⭐ *"Breaking systems to build stronger security"*  
+⭐ *"Breaking applications to build stronger security"*  
