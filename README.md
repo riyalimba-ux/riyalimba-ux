@@ -55,11 +55,10 @@
 ## 🚀 Projects
 
 ---
-
-### 🔍 Fast Port Scanner (Python)
+### 🔍 Network Scanner
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Port%20Scanner-00FF00?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Project-Network%20Scanner-00FF00?style=for-the-badge&logo=linux" />
 </p>
 
 <p align="center">
@@ -73,8 +72,8 @@
 - 🚀 Lightweight and faster than basic scans  
 
 <p align="center">
-  <a href="https://github.com/riyalimba-ux/fast-port-scanner-python">
-    <img src="https://img.shields.io/badge/View%20Project-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/riyalimba-ux/network-scanner">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
