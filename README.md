@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
-<h3 align="center">Cybersecurity Enthusiast | TryHackMe Top 7% | Aspiring Pentester</h3>
+<h3 align="center">Cybersecurity Enthusiast | TryHackMe Top 6% | Aspiring Pentester</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Web+Application+Security+Learner;TryHackMe+Top+7%25;PortSwigger+Practitioner;Future+Ethical+Hacker" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Web+Application+Security+Learner;TryHackMe+Top+6%25;PortSwigger+Practitioner;Future+Ethical+Hacker" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🧠 About Me
 - 🎓 MCA Student (Graduating May 2026) - CGC Landran  
 - 🎯 Specializing in **Web Application Security & Pentesting**  
-- 🔥 TryHackMe Top 7% (65+ Rooms Completed)  
+- 🔥 TryHackMe Top 6% (65+ Rooms Completed)  
 - 🧪 PortSwigger Labs: 45+ Completed  
 - ⚡ Hands-on experience with real-world tools  
 - 📍 Kharar | Mohali | Chandigarh  
@@ -25,6 +25,7 @@
   </a>
 </p>
 
+---
 
 ## 🏅 TryHackMe Badges
 
@@ -34,6 +35,7 @@
   </a>
 </p>
 
+---
 
 ## 🛠️ Skills & Tools
 
@@ -55,6 +57,7 @@
 ## 🚀 Projects
 
 ---
+
 ### 🔍 Network Scanner
 
 <p align="center">
@@ -79,25 +82,25 @@
 
 ---
 
-### 🔑 Dictionary Password Cracker
+### 🔐 Password Security Analyzer (Web)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Password%20Cracker-red?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Project-Password%20Security%20Analyzer-red?style=for-the-badge&logo=hackthebox" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Attack-Brute%20Force-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Type-Security%20Tool-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Type-Web%20Security-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Function-Password%20Analysis-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
 </p>
 
-- 🔐 Performs password cracking using wordlists  
-- 🧠 Supports custom dictionary inputs  
-- ⚡ Simulates brute-force attacks  
+- 🔐 Analyzes password strength and security  
+- 🧠 Detects weak, common, and vulnerable passwords  
+- ⚡ Helps improve password policies and user awareness  
 
 <p align="center">
-  <a href="https://github.com/riyalimba-ux/password-cracker">
-    <img src="https://img.shields.io/badge/View%20Project-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/riyalimba-ux/password-security-analyzer-web">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -123,12 +126,14 @@
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
 ## 📈 Contribution Graph
 
