@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riya</h1>
-<h3 align="center">Cybersecurity Enthusiast | TryHackMe Top 6% | Aspiring Pentester</h3>
+<h3 align="center">Cybersecurity Enthusiast | TryHackMe Top 4% | Aspiring Pentester</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Web+Application+Security+Learner;TryHackMe+Top+6%25;PortSwigger+Practitioner;Future+Ethical+Hacker" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Web+Application+Security+Learner;TryHackMe+Top+4%25;PortSwigger+Practitioner;Future+Ethical+Hacker" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🧠 About Me
 - 🎓 MCA Student (Graduating May 2026) - CGC Landran  
 - 🎯 Specializing in **Web Application Security & Pentesting**  
-- 🔥 TryHackMe Top 6% (65+ Rooms Completed)  
+- 🔥 TryHackMe Rank: **86571 | Top 4%**  
 - 🧪 PortSwigger Labs: 45+ Completed  
 - ⚡ Hands-on experience with real-world tools  
 - 📍 Kharar | Mohali | Chandigarh  
@@ -24,8 +24,6 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/riyalimba.png" />
   </a>
 </p>
-
----
 
 ## 🏅 TryHackMe Badges
 
@@ -55,6 +53,30 @@
 ---
 
 ## 🚀 Projects
+
+---
+
+### ⌨️ Keylogger
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Keylogger-red?style=for-the-badge&logo=hackthebox" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Type-Security%20Research-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Purpose-Educational-important?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
+</p>
+
+- ⌨️ Captures keystrokes for educational cybersecurity understanding  
+- 🧠 Demonstrates how keylogging techniques work  
+- 🔐 Helps learn detection and prevention concepts  
+
+<p align="center">
+  <a href="https://github.com/riyalimba-ux/Keylogger">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
@@ -96,7 +118,7 @@
 
 - 🔐 Analyzes password strength and security  
 - 🧠 Detects weak, common, and vulnerable passwords  
-- ⚡ Helps improve password policies and user awareness  
+- ⚡ Helps improve password policies  
 
 <p align="center">
   <a href="https://github.com/riyalimba-ux/password-security-analyzer-web">
