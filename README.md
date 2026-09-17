@@ -1,173 +1,355 @@
-<h1 align="center">Hi 👋, I'm Riya</h1>
-<h3 align="center">Cybersecurity Enthusiast | TryHackMe Top 4% | Aspiring Pentester</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Web+Application+Security+Learner;TryHackMe+Top+4%25;PortSwigger+Practitioner;Future+Ethical+Hacker" alt="Typing SVG" />
+# 👋 Hey, I'm Riya
+
+### 🔐 Cybersecurity Enthusiast · Web Application Security · Penetration Testing
+
+<p>
+  <a href="https://github.com/riyalimba-ux">
+    <img src="https://img.shields.io/badge/GitHub-riyalimba--ux-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/riyalimba">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%204%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/riya-limba-664763234">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-skills--tools">Skills</a> •
-  <a href="#-projects">Projects</a> •
-  <a href="#-certifications--experience">Certifications</a> •
-  <a href="#-connect-with-me">Connect</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Web+Application+Security;Penetration+Testing;Bug+Bounty+Learning;Security+Research;Breaking+Applications+%7C+Building+Stronger+Security" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 MCA Student (Graduating May 2026) — CGC Landran
-- 🎯 Specializing in **Web Application Security & Pentesting**
-- 🔥 TryHackMe: **Top 4%**
-- 🧪 PortSwigger Web Security Academy: **45+ labs completed**
-- ⚡ Hands-on with real-world offensive security tooling
-- 📍 Kharar · Mohali · Chandigarh
+I'm a cybersecurity-focused developer and security learner interested in understanding **how applications fail, how attackers exploit weaknesses, and how those weaknesses can be prevented**.
+
+My current focus is **Web Application Security and Penetration Testing**, with hands-on practice through vulnerable applications, CTF-style labs, security tooling, and personal projects.
+
+```text
+🎯 Focus       → Web Application Security & Pentesting
+🔎 Interests   → Bug Bounty · Web Security · Recon · Vulnerability Research
+🧪 Practice    → TryHackMe · PortSwigger Web Security Academy
+💻 Coding      → Python · PHP · JavaScript · SQL
+🐧 Environment → Linux · Kali Linux
+```
+
+### ⚡ Current Security Focus
+
+* 🔐 Web Application Security
+* 🕷️ OWASP Top 10
+* 🧪 Vulnerability Assessment
+* 🔎 Reconnaissance & Enumeration
+* 🛡️ Security Testing
+* 🌐 API Security
+* 💥 XSS & SQL Injection
+* 🔑 Authentication & Authorization
+* 📡 Network Security
+* 🐞 Bug Bounty Methodology
 
 ---
 
-## 🚩 TryHackMe Profile
+# 🏆 Security Journey
 
-<p align="center">
-  <a href="https://tryhackme.com/p/riyalimba">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/riyalimba.png" alt="TryHackMe Stats" />
-  </a>
+<div align="center">
+
+| 🏅 Platform                          | 📊 Progress                   |
+| ------------------------------------ | ----------------------------- |
+| **TryHackMe**                        | 🟢 Top 4%                     |
+| **PortSwigger Web Security Academy** | 🧪 45+ Labs                   |
+| **Cybersecurity Articles**           | ✍️ 14+                        |
+| **Security Projects**                | 🚀 Multiple Hands-on Projects |
+
+</div>
+
+---
+
+## 🚩 TryHackMe
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/riyalimba">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/riyalimba.png" alt="Riya's TryHackMe Badge" />
+
+</a>
+
+<br><br>
+
+<a href="https://tryhackme.com/p/riyalimba?tab=badges">
+
+<img src="https://img.shields.io/badge/🏅%20View%20My%20TryHackMe%20Badges-FF0000?style=for-the-badge" />
+
+</a>
+
+</div>
+
+---
+
+# 🛠️ Technical Arsenal
+
+## 💻 Programming & Web
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/riyalimba?tab=badges">
-    <img src="https://img.shields.io/badge/View%20All%20Badges-TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  </a>
+## 🔐 Security Tools
+
+<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FFUF-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge"/>
 </p>
 
+## 🔎 Security Areas
+
+```text
+Web Security
+├── XSS
+├── SQL Injection
+├── Authentication
+├── Authorization / IDOR
+├── CSRF
+├── SSRF
+├── JWT Security
+├── API Security
+└── Security Headers
+
+Reconnaissance
+├── Subdomain Enumeration
+├── Port Scanning
+├── Directory Enumeration
+├── Service Enumeration
+└── Attack Surface Discovery
+
+Security Testing
+├── Burp Suite
+├── Nmap
+├── FFUF
+├── Gobuster
+├── Nikto
+├── SQLmap
+└── Metasploit
+```
+
 ---
 
-## 🛠️ Skills & Tools
-
-**Languages**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Security Tools**
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF7300?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004B93?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-C8102E?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-4B4B4B?style=for-the-badge)
-![FFUF](https://img.shields.io/badge/FFUF-111111?style=for-the-badge)
-
----
-
-## 🚀 Projects
+# 🚀 Featured Security Projects
 
 ### ⌨️ Keylogger — Educational Security Research
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Type-Security%20Research-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Purpose-Educational-important?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
-</p>
+> A controlled cybersecurity project created to understand keystroke-capture techniques and the defensive concepts used to detect them.
 
-- ⌨️ Demonstrates how keystroke-capture techniques work at a code level
-- 🧠 Built to study attacker tradecraft in a controlled, educational context
-- 🔐 Companion writeup covers detection and prevention (EDR hooks, keyboard driver monitoring)
+**Focus:** Security Research · Python · Endpoint Security
 
-<p align="center">
-  <a href="https://github.com/riyalimba-ux/Keylogger">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+* ⌨️ Demonstrates keystroke-capture concepts
+* 🧠 Helps understand attacker techniques
+* 🛡️ Explores detection and prevention approaches
+* 🎓 Designed for controlled educational environments
+
+<div align="center">
+
+<a href="https://github.com/riyalimba-ux/Keylogger">
+<img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
 
 ### 🔍 Network Scanner
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Speed-Fast-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Type-Network%20Security-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
-</p>
+> A lightweight Python-based network scanner designed to identify open ports and services across configurable port ranges.
 
-- ⚡ Scans custom port ranges quickly using multithreading
-- 📡 Detects open ports and running services efficiently
-- 🚀 Lightweight, faster than a naive sequential scan
+**Focus:** Network Security · Python · Port Scanning
 
-<p align="center">
-  <a href="https://github.com/riyalimba-ux/network-scanner">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+* ⚡ Multithreaded scanning
+* 📡 Detects open ports
+* 🔎 Supports custom port ranges
+* 🚀 Lightweight implementation
+* 🧠 Built to understand network reconnaissance
 
-### 🔐 Password Security Analyzer (Web)
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Type-Web%20Security-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Function-Password%20Analysis-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square"/>
-</p>
+<a href="https://github.com/riyalimba-ux/network-scanner">
+<img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
 
-- 🔐 Analyzes password strength against common security heuristics
-- 🧠 Flags weak, common, and previously-breached passwords
-- ⚡ Outputs practical guidance for improving password policy
+</div>
 
-<p align="center">
-  <a href="https://github.com/riyalimba-ux/password-security-analyzer-web">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-black?style=for-the-badge&logo=github"/>
-  </a>
+---
+
+### 🔐 Password Security Analyzer
+
+> A web-based security project for analyzing password strength and identifying common password weaknesses.
+
+**Focus:** Web Security · Python · Password Security
+
+* 🔐 Password strength analysis
+* 🧠 Detects weak password patterns
+* ⚠️ Identifies common password risks
+* 📊 Provides security recommendations
+* 🛡️ Focuses on improving password hygiene
+
+<div align="center">
+
+<a href="https://github.com/riyalimba-ux/password-security-analyzer-web">
+<img src="https://img.shields.io/badge/🔎%20VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 📚 Security Learning
+
+My learning approach is heavily hands-on:
+
+```text
+Learn
+  ↓
+Understand the vulnerability
+  ↓
+Reproduce it in a controlled lab
+  ↓
+Analyze the request / response
+  ↓
+Understand the root cause
+  ↓
+Document the finding
+  ↓
+Study mitigation
+  ↓
+Build something around it
+```
+
+### Platforms
+
+<p>
+<a href="https://tryhackme.com/p/riyalimba">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://portswigger.net/web-security">
+<img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-orange?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-## 🏆 Certifications & Experience
+# 🏅 Certifications & Virtual Experience
 
-| Program | Provider |
-|---|---|
-| Cyber Security Internship | Clifford Chance (via Forage) |
-| Cyber Job Simulation | Deloitte |
-| Cybersecurity Simulation | Mastercard |
-| Cybersecurity Simulation | Telstra |
-| Python for Beginners | EC-Council |
-| SQL Injection Attacks | EC-Council |
-| ICIP | OPSWAT |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riyalimba-ux&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=riyalimba-ux&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riyalimba-ux&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+| Program                   | Organization             |
+| ------------------------- | ------------------------ |
+| Cyber Security Internship | Clifford Chance · Forage |
+| Cyber Job Simulation      | Deloitte                 |
+| Cybersecurity Simulation  | Mastercard               |
+| Cybersecurity Simulation  | Telstra                  |
+| Python for Beginners      | EC-Council               |
+| SQL Injection Attacks     | EC-Council               |
+| ICIP                      | OPSWAT                   |
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/riya-limba-664763234">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/RiyaLimba">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:riyalimba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riyalimba-ux&label=Profile%20views&color=00ff00&style=flat" alt="Profile views"/>
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=riyalimba-ux&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyalimba-ux&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyalimba-ux&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">⭐ <i>"Breaking applications to build stronger security"</i></p>
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyalimba-ux&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# ✍️ What I Write About
+
+I also document what I learn through cybersecurity content and technical write-ups.
+
+### Topics I Cover
+
+```text
+🔐 Web Application Security
+🐞 Vulnerability Research
+🕷️ Bug Bounty
+🔎 Reconnaissance
+💻 Ethical Hacking
+🌐 API Security
+🛡️ Defensive Security
+🧪 Security Labs & Practical Learning
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/riya-limba-664763234">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/RiyaLimba">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:riyalimba@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 Break. Understand. Secure.
+
+**"Breaking applications to build stronger security."**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=riyalimba-ux&label=Profile%20Views&color=00ff88&style=for-the-badge" />
+
+</div>
