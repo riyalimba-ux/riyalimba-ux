@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 **MCA Student** (Graduating May 2026) — CGC Landran
+- 🎓 **MCA Postgraduate**
 - 🎯 Specializing in **Web Application Security & Pentesting**
 - 🔥 **TryHackMe Rank:** 86571 | **Top 4%**
 - 🧪 **PortSwigger Labs:** 45+ Completed
